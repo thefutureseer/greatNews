@@ -1,7 +1,7 @@
 # greatNews
-All The Good News
+GreatNews5
 
-Whenever a user visits the site, the app will scrape articles from allthegoodnews.com.
+Whenever a user visits the site, the app will scrape articles from www.goodnewsnetwork.org .
 
 The first article will be displayed with an image and summary of the article. The user can click on the read article button to read the complete article which opens in a new tab.
 
